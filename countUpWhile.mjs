@@ -1,5 +1,5 @@
-var counter = -1;
-var targetNumber = 8;
+let counter = -1;
+let targetNumber = 8;
 
 
 while(counter <= targetNumber){
